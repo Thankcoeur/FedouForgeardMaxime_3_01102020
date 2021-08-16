@@ -6369,6 +6369,7 @@ a:hover {
   align-items: center;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 150px 40px 40px;
+  
 }
 .restaurants__item:hover {
   filter: brightness(1.1);
@@ -6408,15 +6409,15 @@ a:hover {
   grid-column: 1;
 }
 .restaurants figure {
-  width: 100%;
-  height: 100%;
+ 
   grid-row: 1;
   grid-column: 1/span 2;
 }
 .restaurants img {
   width: 100%;
+  
   height: 100%;
-  object-fit: cover;
+  
 }
 
 .blockmenu .item:nth-child(1) {
